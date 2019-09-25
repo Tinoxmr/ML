@@ -1,2 +1,2 @@
 # ML
-## Some simple Python scripts for Machine Learning, using sklearn
+### Some simple Python scripts for basic Machine Learning, using sklearn
