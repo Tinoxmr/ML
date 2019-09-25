@@ -1,3 +1,11 @@
+# You are free to reuse this code anywhere you want
+# Created by Tinoxmr
+# 25/09/2019
+#
+# This simple Python script compare the performance of an SVM classifier and a DecisionTree classifier
+# using the 'digits' standard dataset from sklearn.datasets
+
+
 from sklearn import datasets
 from sklearn import svm
 from sklearn import metrics
